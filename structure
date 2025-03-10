@@ -4,7 +4,7 @@
 │── /db
 │   ├── __init__.py      # Initialize the database
 │   ├── models.py        # Define database models (Users & Products)
-│── /routes
+│── /routes   
 │── /static
 │── /templates
 │── requirements.txt
